@@ -55,6 +55,9 @@ body {
     font-weight: 500;
     line-height: 28px;
 }
+.nav-split-simple .nav-item.dropdown.my-margin{
+    margin: 0px !important;
+}
 
 p {
     line-height: 30px;
@@ -899,6 +902,7 @@ input.form-control {
 .entry-summary form div {
     margin-bottom: 0;
 }
+
 
 /*===============================
  Pricing Tab
