@@ -55,9 +55,6 @@ body {
     font-weight: 500;
     line-height: 28px;
 }
-.nav-split-simple .nav-item.dropdown.my-margin{
-    margin: 0px !important;
-}
 
 p {
     line-height: 30px;
@@ -992,6 +989,9 @@ input.form-control {
 }
 
 @media screen and (max-width:991px) {
+    .nav-split-simple .nav-item.dropdown.my-margin{
+        margin: 0px !important;
+    }
     .fixed-top {
         position: static;
     }
