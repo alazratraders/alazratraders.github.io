@@ -240,6 +240,9 @@ a:hover {
 .top-profile li a {
     padding: 0 15px;
 }
+.text-black{
+    color: black !important;
+}
 
 .top-profile form input {
     padding: 0 40px 0 20px;

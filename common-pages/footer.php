@@ -48,7 +48,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-8">
-                     <span>© 2022 All Rights Reserved. Al-Azra</span>
+                     <span>© 2022 All Rights Reserved. Al-Azra Traders</span>
                      <span class="pl-3">Design By <span class="text-primary">Salman Shaikh</span></span>
                  </div>
                  <div class="col-md-4">
