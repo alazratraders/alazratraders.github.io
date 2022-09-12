@@ -94,7 +94,7 @@ function init(_latitude, _longitude) {
 	var marker = new google.maps.Marker({
 		position: new google.maps.LatLng(_latitude, _longitude),
 		map: map,
-		icon: 'http://unicoderbd.com/theme/html/homex/images/map/marker.png',
+		icon: 'http://bd.com/theme/html/homex/images/map/marker.png',
 		title: 'Snazzy!'
 	});
 }
